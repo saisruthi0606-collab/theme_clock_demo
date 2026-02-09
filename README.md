@@ -41,7 +41,7 @@ theme_clock_demo/
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/theme_clock_demo.git
+   git clone https://github.com/saisruthi0606-collab/theme_clock_demo
 
 
 Open the project folder.
